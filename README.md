@@ -1,6 +1,6 @@
-# GeoSnap — AI-Powered Photo Geolocation
-
 <div align="center">
+
+# GeoSnap — AI-Powered Photo Geolocation
 
 **Upload any photo. AI pinpoints the exact location on the map.**
 
